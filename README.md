@@ -28,3 +28,7 @@ contains binary search tree data structures.
 - Binary search tree node.
 - Tree map data structure.
 - Tree set data structure.
+
+## The .jar File
+This project also contains a .jar file named `MyDataStructures.jar` that anyone
+can import into their Java system to use the data structures.
